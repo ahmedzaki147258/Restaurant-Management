@@ -47,3 +47,4 @@ Implementing the Restaurant Management System offers several advantages, such as
 The Restaurant Management System is a comprehensive solution designed to manage the multifaceted operations of a restaurant. By leveraging the detailed API endpoints provided, restaurant managers can ensure smooth operations, enhance customer satisfaction, and optimize resource utilization.
 
 
+![1710675505946](https://github.com/ahmedzaki147258/Restaurant-Management/assets/130254480/4727ea9f-b5f1-480d-9a87-0c2dfb5e03f5)
