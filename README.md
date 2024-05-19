@@ -1,5 +1,4 @@
 # Restaurant-Management
-# Restaurant Management System
 
 ## Overview
 The Restaurant Management System is designed to efficiently manage the various operations of a restaurant. This system provides comprehensive functionality through a series of API endpoints, allowing for seamless management of inventory, wastage, dining areas, reservations, products, offers, orders, staff, and attendance. Below is a detailed description of each component of the system.
@@ -46,4 +45,5 @@ Implementing the Restaurant Management System offers several advantages, such as
 
 ## Conclusion
 The Restaurant Management System is a comprehensive solution designed to manage the multifaceted operations of a restaurant. By leveraging the detailed API endpoints provided, restaurant managers can ensure smooth operations, enhance customer satisfaction, and optimize resource utilization.
-![1710675505946](https://github.com/ahmedzaki147258/Restaurant-Management/assets/130254480/7338ca7c-2a47-4fb6-8e66-860022946eb3)
+
+
